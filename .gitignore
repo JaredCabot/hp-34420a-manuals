@@ -12,6 +12,7 @@
 !.gitattributes
 !README.md
 !LICENSE
+!.github/
 
 !docs/
 docs/*
