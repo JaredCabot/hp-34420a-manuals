@@ -1,0 +1,24 @@
+# This folder is the working project. Only the finished deliverables are
+# published: the two manuals and the three firmware images. Everything else,
+# the tooling, the notes, the extracted tables, the manual build sources and
+# the manufacturer's own documents, stays local.
+#
+# The rule below ignores everything and then names the exceptions, so a new
+# file is private by default and has to be added here deliberately.
+
+/*
+
+!.gitignore
+!.gitattributes
+!README.md
+!LICENSE
+
+!docs/
+docs/*
+!docs/34420A_Users_Manual.pdf
+!docs/34420A_Technical_Service_Manual.pdf
+!docs/34420A_Schematics.pdf
+
+!firmware/
+firmware/*
+!firmware/*.bin

@@ -1,0 +1,26 @@
+Copyright (c) 2026 Jared Cabot
+
+The original material in this repository, being the selection, arrangement,
+editing and new writing that make up the consolidated User's Manual and the
+Technical Service Manual, is licensed under the Creative Commons
+Attribution 4.0 International License (CC BY 4.0).
+
+    https://creativecommons.org/licenses/by/4.0/
+
+That licence covers only the parts that are the author's own work. It is not,
+and cannot be, a licence to the underlying material, which is not the author's
+to license:
+
+  * Text, tables and artwork drawn from the 34420A User's Manual, Service
+    Guide, Manual Updates and schematic set remain the property of
+    Hewlett-Packard Company, Agilent Technologies, Inc. and Keysight
+    Technologies, Inc. as applicable.
+
+  * The firmware images in firmware/ are the manufacturer's copyrighted
+    program code. They are provided for the repair and maintenance of
+    instruments their owners already possess. No licence to them is granted
+    or implied here.
+
+The manuals are provided as they are, without warranty of any kind. The
+34420A may be connected to circuits at hazardous potentials; read the safety
+information in the manufacturer's own documentation before working on one.
