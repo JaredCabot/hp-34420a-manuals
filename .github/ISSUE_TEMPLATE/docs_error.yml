@@ -7,8 +7,6 @@ body:
     attributes:
       value: |
         Thanks for the correction. Errors found against a real instrument or the original HP, Agilent or Keysight documents are the most valuable reports this project gets.
-
-        For a problem with one of the ROM images, use **Problem with a firmware image** instead.
   - type: dropdown
     id: document
     attributes:
