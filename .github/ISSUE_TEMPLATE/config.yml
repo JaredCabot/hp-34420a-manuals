@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 34420A User's Manual
+    url: https://github.com/JaredCabot/hp-34420a-manuals/blob/main/docs/34420A_Users_Manual.pdf
+    about: Operation, programming, specifications, calibration and service, consolidated from every published edition.
+  - name: 34420A Technical Service Manual
+    url: https://github.com/JaredCabot/hp-34420a-manuals/blob/main/docs/34420A_Technical_Service_Manual.pdf
+    about: Processor and memory system, firmware organisation, remote command set and calibration data.
